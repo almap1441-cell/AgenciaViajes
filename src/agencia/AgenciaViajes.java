@@ -31,7 +31,7 @@ public class AgenciaViajes {
 
         // variables para guardar los resultados del reporte
         double totalGeneral = 0;
-        double cobroMayor = 0;
+        double cobroMayor = -1;
         String folioMayor = "";
         String tipoMayor = "";
 
